@@ -1,0 +1,268 @@
+{
+  "@@locale": "en",
+  "appName": "Swaminarayan Maala",
+  "appSlogan": "Jai Swaminarayan — Har Saans Mein Naam, Har Pal Mein Shanti.",
+  "home": "Home",
+  "jap": "Jap",
+  "mala": "Mala",
+  "stories": "Stories",
+  "profile": "Profile",
+  "settings": "Settings",
+  "progress": "Sadhana",
+  "favorites": "Favorites",
+  "mantras": "Mantras",
+  "startJap": "Start Jap",
+  "continueJap": "Continue Jap",
+  "todayJap": "Today's Jap",
+  "dailyTarget": "Daily Target",
+  "currentStreak": "Current Streak",
+  "longestStreak": "Longest Streak",
+  "totalJap": "Total Jap",
+  "totalMala": "Total Mala",
+  "todaysProgress": "Today's Progress",
+  "selectMantra": "Select Mantra",
+  "selectDeity": "Select Guru / Murti",
+  "addMantra": "Add Mantra",
+  "editMantra": "Edit Mantra",
+  "deleteMantra": "Delete Mantra",
+  "favorite": "Favorite",
+  "focusMode": "Focus Mode",
+  "exitFocusMode": "Exit Focus Mode",
+  "nightMode": "Night Jap",
+  "sound": "Tap sound",
+  "backgroundMusic": "Background music",
+  "musicVolume": "Music volume",
+  "musicSection": "Music",
+  "ambientTrack": "Music track",
+  "defaultAmbientTrack": "Swaminarayan Divine Dhun",
+  "chooseAmbientFile": "Choose from files",
+  "useDefaultAmbient": "Use default",
+  "ambientResetDone": "Using default mandir music",
+  "ambientImportSuccess": "Music imported",
+  "ambientImportFailed": "Could not import music",
+  "ambientPlaybackMode": "Playback",
+  "ambientPlaybackModeHint": "Loop forever, play once, or continue only while the app is open",
+  "ambientModeLoop": "Loop",
+  "ambientModeOnce": "Once",
+  "ambientModeContinue": "Continue",
+  "haptic": "Haptic",
+  "volumeButtonJap": "Volume Button Jap",
+  "dailyReminder": "Daily Reminder",
+  "reminderTime": "Reminder Time",
+  "enableReminder": "Enable Reminder",
+  "disableReminder": "Disable Reminder",
+  "yourSadhana": "Your Sadhana",
+  "dailyProgress": "Daily Progress",
+  "weeklyProgress": "Weekly Progress",
+  "monthlyProgress": "Monthly Progress",
+  "yearlyProgress": "Yearly Progress",
+  "lifetimeStats": "Lifetime",
+  "completed": "Completed",
+  "remaining": "Remaining",
+  "session": "Session",
+  "sessions": "Sessions",
+  "duration": "Duration",
+  "targetCompleted": "Today's sankalp is complete",
+  "malaCompleted": "One mala complete",
+  "startAgain": "Start Again",
+  "keepGoing": "Keep Going",
+  "noJapToday": "No jap yet today",
+  "startYourFirstJap": "Begin with your first Naam today",
+  "exportData": "Export Data",
+  "importData": "Import Data",
+  "resetToday": "Reset Today's Progress",
+  "resetAllData": "Reset All Data",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "gujarati": "Gujarati",
+  "morning": "Morning",
+  "afternoon": "Afternoon",
+  "evening": "Evening",
+  "night": "Night",
+  "appearance": "Appearance",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "japSettings": "Jap Settings",
+  "dataSection": "Data",
+  "privacyMessage": "Your Jap data stays on your device.",
+  "quickMantras": "Quick Mantras",
+  "mantraLibrary": "Mantra Library",
+  "myFavorites": "My Favorites",
+  "mantraName": "Mantra Name",
+  "mantraText": "Mantra Text",
+  "optionalDeity": "Deity",
+  "customTarget": "Custom Target",
+  "todaysMala": "Today's Mala",
+  "todaysSessions": "Today's Sessions",
+  "tapToJap": "JAP",
+  "tapHint": "TAP",
+  "onboardingTitle1": "Jai Swaminarayan",
+  "onboardingDesc1": "Begin each day with Swaminarayan Naam Jap and inner peace.",
+  "onboardingTitle2": "Jap, Mala & Namavali",
+  "onboardingDesc2": "108 beads, daily targets, and a Sahajanand Namavali remembrance path.",
+  "onboardingTitle3": "Track Your Sadhana",
+  "onboardingDesc3": "Streaks, insights, and progress — all offline on your device.",
+  "onboardingTitle4": "Choose Your Focus",
+  "onboardingDesc4": "Select a guru or murti presence for your digital mandir.",
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "Start Jap",
+  "sadhanaAnalytics": "Sadhana Analytics",
+  "last7Days": "Last 7 Days",
+  "thisMonth": "This Month",
+  "thisYear": "This Year",
+  "bestDay": "Best Day",
+  "activeDays": "Active Days",
+  "dailyAverage": "Daily Average",
+  "insights": "Insights",
+  "preferredTime": "Preferred Time",
+  "consistency": "Consistency",
+  "noStoriesYet": "Stories will soon become part of your sadhana.",
+  "noFavoritesYet": "Save mantras and stories you love here.",
+  "areYouSure": "Are you sure?",
+  "resetTodayConfirm": "This will clear today's jap count. Continue?",
+  "resetAllConfirm": "This will permanently delete all jap data. This cannot be undone.",
+  "resetAllConfirm2": "Type confirm again — all sadhana history will be erased.",
+  "exportSuccess": "Backup ready to share.",
+  "importSuccess": "Data restored successfully.",
+  "importFailed": "Invalid backup file.",
+  "notificationPermissionDenied": "Notifications are disabled. You can enable them from device settings.",
+  "reminderBody": "Time for Swaminarayan Naam Jap — Jai Swaminarayan.",
+  "reminderTargetBody": "A little more Naam will complete today's target.",
+  "autoStartLastMantra": "Auto-start last mantra",
+  "categoryRam": "Ram",
+  "categoryKrishna": "Krishna",
+  "categoryShiva": "Shiva",
+  "categoryHanuman": "Hanuman",
+  "categoryDevi": "Devi",
+  "categoryGanesh": "Ganesh",
+  "categoryVishnu": "Vishnu",
+  "categoryCustom": "Custom",
+  "all": "All",
+  "streakMilestone": "Your sadhana reached a milestone",
+  "aajKiSadhana": "Today's Sadhana",
+  "kalPhirSe": "Begin again tomorrow with the same peace.",
+  "loading": "Loading…",
+  "errorGeneric": "Something went wrong. Please try again.",
+  "dbError": "Could not open local storage. Please restart the app.",
+  "naamCount": "{count} Naam",
+  "@naamCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "malaCompletedCount": "{count} mala complete",
+  "@malaCompletedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "daysStreak": "{count} Day Streak",
+  "@daysStreak": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "remainingCount": "{count} remaining",
+  "@remainingCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "minutesDuration": "{count} min",
+  "@minutesDuration": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "hoursMinutes": "{hours}h {minutes}m",
+  "@hoursMinutes": {
+    "placeholders": {
+      "hours": {"type": "int"},
+      "minutes": {"type": "int"}
+    }
+  },
+  "targetProgress": "{current} / {target}",
+  "@targetProgress": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "target": {"type": "int"}
+    }
+  },
+  "sessionSummary": "{duration} · {count} Naam",
+  "@sessionSummary": {
+    "placeholders": {
+      "duration": {"type": "String"},
+      "count": {"type": "int"}
+    }
+  },
+  "insightMonthly": "You have completed {count} Naam this month.",
+  "@insightMonthly": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "insightConsistency": "You practiced on {days} of the last {total} days.",
+  "@insightConsistency": {
+    "placeholders": {
+      "days": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "insightBestDay": "Your highest Jap was {count} Naam.",
+  "@insightBestDay": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "streakMilestoneMessage": "Your sadhana has completed {days} days.",
+  "@streakMilestoneMessage": {
+    "placeholders": {
+      "days": {"type": "int"}
+    }
+  },
+  "dailyQuoteFallback": "Where there is Naam, there is peace.",
+  "changePhoto": "Change photo",
+  "chooseFromGallery": "Choose from gallery",
+  "removePhoto": "Remove photo",
+  "editProfile": "Edit profile",
+  "yourName": "Your name",
+  "profilePicture": "Profile picture",
+  "kidsJap": "Kids Jap",
+  "kidsJapShort": "Kids",
+  "kidsJapSubtitle": "Learn Naam Jap through play.",
+  "kidsJapIntro": "Tap falling flowers and stars — each tap is one Naam.",
+  "kidsJapCardSubtitle": "Make Naam Jap fun for little devotees",
+  "startKidsJap": "Start Kids Jap",
+  "chooseTarget": "Choose Target",
+  "plusOneJap": "+1 Jap",
+  "kidsWonderful": "Wonderful! 🌸",
+  "kidsShabash": "Shabash! 🙏",
+  "kidsJapCompletedTitle": "Wonderful!",
+  "kidsJapCompletedBody": "You completed {count} Jap.",
+  "@kidsJapCompletedBody": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "pauseJap": "Jap Pause",
+  "kidsPauseMessage": "Take a soft breath. Resume when ready.",
+  "resumeJap": "Resume",
+  "restartJap": "Jap again",
+  "exitJap": "Exit",
+  "normalJap": "Normal Jap",
+  "kidsJapCount": "Kids Jap",
+  "reminderMode": "Reminder Mode",
+  "reminderModeAsk": "Ask Me",
+  "kidsPlayAgain": "Play Again",
+  "kidsGoToJap": "Go to Jap",
+  "kidsKeepGoingLittle": "Keep going, little devotee! 🙏",
+  "japCountLabel": "Jap Count",
+  "kidsTapHint": "Tap the falling blessings"
+}

@@ -1,0 +1,268 @@
+{
+  "@@locale": "gu",
+  "appName": "સ્વામિનારાયણ માળા",
+  "appSlogan": "જય સ્વામિનારાયણ — દરેક શ્વાસમાં નામ, દરેક પળમાં શાંતિ.",
+  "home": "હોમ",
+  "jap": "જપ",
+  "mala": "માળા",
+  "stories": "વાર્તાઓ",
+  "profile": "પ્રોફાઇલ",
+  "settings": "સેટિંગ્સ",
+  "progress": "સાધના",
+  "favorites": "મનપસંદ",
+  "mantras": "મંત્રો",
+  "startJap": "જપ શરૂ કરો",
+  "continueJap": "જપ ચાલુ રાખો",
+  "todayJap": "આજનો જપ",
+  "dailyTarget": "દૈનિક લક્ષ્ય",
+  "currentStreak": "વર્તમાન સ્ટ્રીક",
+  "longestStreak": "સૌથી લાંબી સ્ટ્રીક",
+  "totalJap": "કુલ જપ",
+  "totalMala": "કુલ માળા",
+  "todaysProgress": "આજની પ્રગતિ",
+  "selectMantra": "મંત્ર પસંદ કરો",
+  "selectDeity": "ગુરુ / મૂર્તિ પસંદ કરો",
+  "addMantra": "મંત્ર ઉમેરો",
+  "editMantra": "મંત્ર સંપાદિત કરો",
+  "deleteMantra": "મંત્ર કાઢી નાખો",
+  "favorite": "મનપસંદ",
+  "focusMode": "ફોકસ મોડ",
+  "exitFocusMode": "ફોકસ મોડ બંધ કરો",
+  "nightMode": "રાત્રિ જપ",
+  "sound": "ટેપ અવાજ",
+  "backgroundMusic": "પૃષ્ઠભૂમિ સંગીત",
+  "musicVolume": "સંગીત વોલ્યુમ",
+  "musicSection": "સંગીત",
+  "ambientTrack": "સંગીત ટ્રેક",
+  "defaultAmbientTrack": "સ્વામિનારાયણ ડિવાઇન ધુન",
+  "chooseAmbientFile": "ફાઇલમાંથી પસંદ કરો",
+  "useDefaultAmbient": "ડિફોલ્ટ વાપરો",
+  "ambientResetDone": "ડિફોલ્ટ મંદિર સંગીત ચાલુ છે",
+  "ambientImportSuccess": "સંગીત આયાત થયું",
+  "ambientImportFailed": "સંગીત આયાત થઈ શક્યું નહીં",
+  "ambientPlaybackMode": "પ્લેબેક",
+  "ambientPlaybackModeHint": "લૂપ, એક વાર, અથવા એપ ખુલ્લી હોય ત્યાં સુધી ચાલુ રાખો",
+  "ambientModeLoop": "લૂપ",
+  "ambientModeOnce": "એક વાર",
+  "ambientModeContinue": "ચાલુ",
+  "haptic": "કંપન",
+  "volumeButtonJap": "વોલ્યુમ બટનથી જપ",
+  "dailyReminder": "દૈનિક રિમાઇન્ડર",
+  "reminderTime": "રિમાઇન્ડર સમય",
+  "enableReminder": "રિમાઇન્ડર ચાલુ કરો",
+  "disableReminder": "રિમાઇન્ડર બંધ કરો",
+  "yourSadhana": "તમારી સાધના",
+  "dailyProgress": "દૈનિક પ્રગતિ",
+  "weeklyProgress": "સાપ્તાહિક પ્રગતિ",
+  "monthlyProgress": "માસિક પ્રગતિ",
+  "yearlyProgress": "વાર્ષિક પ્રગતિ",
+  "lifetimeStats": "જીવનભર",
+  "completed": "પૂર્ણ",
+  "remaining": "બાકી",
+  "session": "સત્ર",
+  "sessions": "સત્રો",
+  "duration": "સમયગાળો",
+  "targetCompleted": "આજનો સંકલ્પ પૂર્ણ થયો",
+  "malaCompleted": "એક માળા પૂર્ણ",
+  "startAgain": "ફરી શરૂ કરો",
+  "keepGoing": "ચાલુ રાખો",
+  "noJapToday": "આજે હજુ જપ થયો નથી",
+  "startYourFirstJap": "આજે પહેલા નામથી શરૂઆત કરો",
+  "exportData": "ડેટા એક્સપોર્ટ",
+  "importData": "ડેટા ઇમ્પોર્ટ",
+  "resetToday": "આજની પ્રગતિ રીસેટ",
+  "resetAllData": "બધો ડેટા રીસેટ",
+  "confirm": "પુષ્ટિ",
+  "cancel": "રદ કરો",
+  "save": "સાચવો",
+  "delete": "કાઢી નાખો",
+  "language": "ભાષા",
+  "english": "અંગ્રેજી",
+  "hindi": "હિન્દી",
+  "gujarati": "ગુજરાતી",
+  "morning": "સવાર",
+  "afternoon": "બપોર",
+  "evening": "સાંજ",
+  "night": "રાત",
+  "appearance": "દેખાવ",
+  "themeLight": "લાઇટ",
+  "themeDark": "ડાર્ક",
+  "themeSystem": "સિસ્ટમ",
+  "japSettings": "જપ સેટિંગ્સ",
+  "dataSection": "ડેટા",
+  "privacyMessage": "તમારો જપ ડેટા તમારા ડિવાઇસ પર જ રહે છે.",
+  "quickMantras": "ઝડપી મંત્રો",
+  "mantraLibrary": "મંત્ર લાઇબ્રેરી",
+  "myFavorites": "મારા મનપસંદ",
+  "mantraName": "મંત્ર નામ",
+  "mantraText": "મંત્ર પાઠ",
+  "optionalDeity": "દેવતા",
+  "customTarget": "કસ્ટમ લક્ષ્ય",
+  "todaysMala": "આજની માળા",
+  "todaysSessions": "આજના સત્રો",
+  "tapToJap": "જપ",
+  "tapHint": "ટેપ",
+  "onboardingTitle1": "જય સ્વામિનારાયણ",
+  "onboardingDesc1": "દરેક દિવસ સ્વામિનારાયણ નામ જપ અને શાંતિ સાથે શરૂ કરો.",
+  "onboardingTitle2": "જપ, માળા અને નામાવલી",
+  "onboardingDesc2": "૧૦૮ મણકા, દૈનિક લક્ષ્ય અને સહજાનંદ નામાવલી સ્મરણ પથ.",
+  "onboardingTitle3": "તમારી સાધના ટ્રૅક કરો",
+  "onboardingDesc3": "સ્ટ્રીક, આંતરદૃષ્ટિ અને પ્રગતિ — બધું તમારા ફોન પર ઑફલાઇન.",
+  "onboardingTitle4": "તમારો ફોકસ પસંદ કરો",
+  "onboardingDesc4": "તમારા ડિજિટલ મંદિર માટે ગુરુ અથવા મૂર્તિ હાજરી પસંદ કરો.",
+  "skip": "છોડો",
+  "next": "આગળ",
+  "getStarted": "જપ શરૂ કરો",
+  "sadhanaAnalytics": "સાધના વિશ્લેષણ",
+  "last7Days": "છેલ્લા ૭ દિવસ",
+  "thisMonth": "આ મહિનો",
+  "thisYear": "આ વર્ષ",
+  "bestDay": "શ્રેષ્ઠ દિવસ",
+  "activeDays": "સક્રિય દિવસો",
+  "dailyAverage": "દૈનિક સરેરાશ",
+  "insights": "અંતર્દૃષ્ટિ",
+  "preferredTime": "પસંદગીનો સમય",
+  "consistency": "નિયમિતતા",
+  "noStoriesYet": "વાર્તાઓ ટૂંક સમયમાં તમારી સાધનાનો ભાગ બનશે.",
+  "noFavoritesYet": "તમને ગમતા મંત્ર અને વાર્તાઓ અહીં સાચવો.",
+  "areYouSure": "શું તમે ખાતરી કરો છો?",
+  "resetTodayConfirm": "આજની જપ ગણતરી સાફ થશે. ચાલુ રાખો?",
+  "resetAllConfirm": "બધો જપ ડેટા કાયમ માટે કાઢી નાખાશે. આ પાછું ફેરવી શકાશે નહીં.",
+  "resetAllConfirm2": "ફરી પુષ્ટિ કરો — સમગ્ર સાધના ઇતિહાસ મિટ થશે.",
+  "exportSuccess": "બેકઅપ શેર કરવા તૈયાર છે.",
+  "importSuccess": "ડેટા સફળતાપૂર્વક પુનઃસ્થાપિત થયો.",
+  "importFailed": "અમાન્ય બેકઅપ ફાઇલ.",
+  "notificationPermissionDenied": "નોટિફિકેશન બંધ છે. તમે ડિવાઇસ સેટિંગ્સમાંથી ચાલુ કરી શકો છો.",
+  "reminderBody": "સ્વામિનારાયણ નામ જપનો સમય — જય સ્વામિનારાયણ.",
+  "reminderTargetBody": "થોડું વધુ નામ લઈને આજનું લક્ષ્ય પૂર્ણ કરો.",
+  "autoStartLastMantra": "છેલ્લો મંત્ર આપમેળે શરૂ કરો",
+  "categoryRam": "રામ",
+  "categoryKrishna": "કૃષ્ણ",
+  "categoryShiva": "શિવ",
+  "categoryHanuman": "હનુમાન",
+  "categoryDevi": "દેવી",
+  "categoryGanesh": "ગણેશ",
+  "categoryVishnu": "વિષ્ણુ",
+  "categoryCustom": "કસ્ટમ",
+  "all": "બધા",
+  "streakMilestone": "તમારી સાધનાએ એક માઇલસ્ટોન સ્પર્શ્યું",
+  "aajKiSadhana": "આજની સાધના",
+  "kalPhirSe": "સુંદર. કાલે ફરી એ જ શાંતિ સાથે શરૂઆત કરો.",
+  "loading": "લોડ થઈ રહ્યું છે…",
+  "errorGeneric": "કંઈક ખોટું થયું. કૃપા કરીને ફરી પ્રયાસ કરો.",
+  "dbError": "સ્થાનિક સ્ટોરેજ ખોલી શકાયું નહીં. કૃપા કરીને ઍપ ફરી શરૂ કરો.",
+  "naamCount": "{count} નામ",
+  "@naamCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "malaCompletedCount": "{count} માળા પૂર્ણ",
+  "@malaCompletedCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "daysStreak": "{count} દિવસની સ્ટ્રીક",
+  "@daysStreak": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "remainingCount": "{count} બાકી",
+  "@remainingCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "minutesDuration": "{count} મિનિટ",
+  "@minutesDuration": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "hoursMinutes": "{hours}ક {minutes}મિ",
+  "@hoursMinutes": {
+    "placeholders": {
+      "hours": {"type": "int"},
+      "minutes": {"type": "int"}
+    }
+  },
+  "targetProgress": "{current} / {target}",
+  "@targetProgress": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "target": {"type": "int"}
+    }
+  },
+  "sessionSummary": "{duration} · {count} નામ",
+  "@sessionSummary": {
+    "placeholders": {
+      "duration": {"type": "String"},
+      "count": {"type": "int"}
+    }
+  },
+  "insightMonthly": "તમે આ મહિને {count} નામ પૂર્ણ કર્યા.",
+  "@insightMonthly": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "insightConsistency": "તમે છેલ્લા {total} દિવસમાંથી {days} દિવસ સાધના કરી.",
+  "@insightConsistency": {
+    "placeholders": {
+      "days": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "insightBestDay": "તમારો સર્વોચ્ચ જપ {count} નામ રહ્યો.",
+  "@insightBestDay": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "streakMilestoneMessage": "તમારી સાધનાને {days} દિવસ પૂર્ણ થયા.",
+  "@streakMilestoneMessage": {
+    "placeholders": {
+      "days": {"type": "int"}
+    }
+  },
+  "dailyQuoteFallback": "જ્યાં નામ છે, ત્યાં શાંતિ છે.",
+  "changePhoto": "ફોટો બદલો",
+  "chooseFromGallery": "ગેલેરીમાંથી પસંદ કરો",
+  "removePhoto": "ફોટો કાઢી નાખો",
+  "editProfile": "પ્રોફાઇલ સંપાદિત કરો",
+  "yourName": "તમારું નામ",
+  "profilePicture": "પ્રોફાઇલ ફોટો",
+  "kidsJap": "બાળકોનો જપ",
+  "kidsJapShort": "ગેમ",
+  "kidsJapSubtitle": "રમત-રમતમાં નામ જપ કરો.",
+  "kidsJapIntro": "પડતા ફૂલ અને તારા પર ટેપ કરો — દરેક ટેપ એક નામ છે.",
+  "kidsJapCardSubtitle": "નામ જપને મજેદાર રીતે કરો",
+  "startKidsJap": "બાળકોનો જપ શરૂ કરો",
+  "chooseTarget": "લક્ષ્ય પસંદ કરો",
+  "plusOneJap": "+1 જપ",
+  "kidsWonderful": "બહુ સરસ! 🌸",
+  "kidsShabash": "શાબાશ! 🙏",
+  "kidsJapCompletedTitle": "બહુ સુંદર!",
+  "kidsJapCompletedBody": "તમે {count} જપ પૂર્ણ કર્યા.",
+  "@kidsJapCompletedBody": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "pauseJap": "જપ વિરામ",
+  "kidsPauseMessage": "એક શાંત શ્વાસ લો. તૈયાર થાઓ ત્યારે ચાલુ કરો.",
+  "resumeJap": "ચાલુ રાખો",
+  "restartJap": "ફરી જપ કરો",
+  "exitJap": "બહાર નીકળો",
+  "normalJap": "સામાન્ય જપ",
+  "kidsJapCount": "બાળકોનો જપ",
+  "reminderMode": "રિમાઇન્ડર મોડ",
+  "reminderModeAsk": "મને પૂછો",
+  "kidsPlayAgain": "ફરી રમો",
+  "kidsGoToJap": "જપ પર જાઓ",
+  "kidsKeepGoingLittle": "ચાલુ રાખો, નાના ભક્ત! 🙏",
+  "japCountLabel": "જપ ગણતરી",
+  "kidsTapHint": "પડતા આશીર્વાદ પર ટેપ કરો"
+}
