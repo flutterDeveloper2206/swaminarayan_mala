@@ -119,11 +119,16 @@ Jai Swaminarayan.
 
 ## Privacy policy
 
-Host a short privacy policy URL (required). Suggested points:
+**URL (required for Play Console):**  
+https://flutterdeveloper2206.github.io/swaminarayan_mala/privacy.html
+
+Site home: https://flutterdeveloper2206.github.io/swaminarayan_mala/
+
+Source pages live in `docs/` (GitHub Pages).
 - Offline-first; jap counts & settings stored only on device
 - Optional: notifications (reminders), photo picker (profile only)
 - No ads, no analytics SDKs required for core use
-- Contact email for questions
+- Contact email: flutterdeveloper2206@gmail.com
 
 ## Release notes (1.0.0)
 

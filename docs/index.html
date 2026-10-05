@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Swaminarayan Maala — Daily Naam Jap</title>
+    <meta
+      name="description"
+      content="Jai Swaminarayan. Offline Naam Jap, 108 mala, kids jap, and sadhana tracking. English, Hindi, and Gujarati."
+    />
+    <link rel="icon" href="assets/app_icon.png" type="image/png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,500&family=DM+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="index.html">
+        <img src="assets/app_icon.png" alt="Swaminarayan Maala icon" />
+        <span class="brand-name">Swaminarayan Maala</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a class="active" href="index.html">Home</a>
+        <a href="privacy.html">Privacy</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <h1>Swaminarayan Maala</h1>
+          <p class="tagline">Jai Swaminarayan — Har Saans Mein Naam, Har Pal Mein Shanti.</p>
+          <p class="lede">
+            A calm, offline devotion app for daily Shri Swaminarayan Naam Jap,
+            108-bead malas, Kids Jap, and sadhana insights — on your device.
+          </p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="privacy.html">Privacy Policy</a>
+            <a
+              class="btn btn-ghost"
+              href="https://github.com/flutterDeveloper2206/swaminarayan_mala"
+              rel="noopener"
+              >GitHub</a
+            >
+          </div>
+        </div>
+        <div class="hero-visual">
+          <img src="assets/app_icon.png" alt="Golden tilak on burgundy app icon" />
+        </div>
+      </section>
+
+      <section class="section" id="features">
+        <h2>Built for daily sadhana</h2>
+        <p class="sub">Simple tools for remembrance — no account, no ads, no feed.</p>
+        <div class="features">
+          <article class="feature">
+            <h3>Naam Jap</h3>
+            <p>Large tap jap with sound, haptics, focus mode, and night jap.</p>
+          </article>
+          <article class="feature">
+            <h3>108 Mala</h3>
+            <p>Rudraksha-style mala with bead travel, flip, and celebration.</p>
+          </article>
+          <article class="feature">
+            <h3>Kids &amp; Insights</h3>
+            <p>Kids Jap play mode plus streaks and offline sadhana analytics.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© <span id="y"></span> Swaminarayan Maala · Independent devotion app</p>
+      <p>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="mailto:flutterdeveloper2206@gmail.com">Contact</a>
+      </p>
+      <p class="sans" style="margin-top: 0.75rem; font-size: 0.8rem">
+        Not affiliated with or endorsed by BAPS Swaminarayan Sanstha.
+      </p>
+    </footer>
+    <script>
+      document.getElementById("y").textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
